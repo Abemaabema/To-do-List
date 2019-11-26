@@ -3,8 +3,12 @@ h1 {
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
+body {
+font-family: 'Orbitron', sans-serif;
+}
 label {
     display: inline-block;
     width: calc(100% - 20px);
