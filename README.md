@@ -11,7 +11,7 @@
 このプロジェクトに貢献することで、あなたの制作した To-do リストが公開されます。
 
 テンプレートの例がこちらになります。
-→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/>
+→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/template/>
 
 あなたの変更がこのリポジトリにマージされると、
 `https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/学籍番号/`
