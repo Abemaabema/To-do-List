@@ -33,23 +33,23 @@ template/ ディレクトリにある To-do List にはいくつかの問題点�
 
 ## 修正内容
 
-### [Delete selected items] ボタンから、選択された項目を削除する関数 deleteSelected() を呼び出すように
+### [Delete selected items] ボタンから、関数 deleteSelected() を呼び出すようにする
 
 コピー直後のサイトにアクセスし、テキストボックスに適当な値を入力し [Add to-do] を押してデータを追加します。
 追加されたら、項目の左側にチェックを入れて [Delete selected items] を押してみましょう。
-現時点では削除されないことが確認できると思います。
-これは、 deleteSelected() が呼び出されていないので、index.html にあるボタンから呼び出す処理を追加してコミットしましょう。
+現時点では削除されないことが確認できます。
+これは、 deleteSelected() が呼び出されていないからです。index.html にあるボタンから呼び出す処理を追加しましましょう。修正が終わったら、コミットしましょう。
 
 - 処理を追加した後はこのようになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/delete-selected/>
 
-### 大見出しを中央揃えに
+### 大見出しを中央揃えにする
 
-大見出し (h1) が左側に寄っているので、 style.css で中央揃えに設定してコミットしましょう。
+大見出し (h1) が左側に寄っているので、 style.css で中央揃えにしましょう。修正が終わったら、コミットしましょう。
 
 - 大見出しを中央揃えにした画面がこちらになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/center/>
 
-### body に対して Google Fonts を導入
+### body に対して Google Fonts を導入する。
 
-Google Fonts から、好きな日本語フォントを導入してコミットしましょう。
+Google Fonts から、好きな日本語フォントを導入しましょう。導入が終わったら、コミットしましょう。
 
 - Google Fonts を導入した画面がこちらになります。（完成）→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/>
