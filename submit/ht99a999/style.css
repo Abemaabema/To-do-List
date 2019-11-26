@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:500&display=swap');
+
+body {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
 h1 {
     background-color: #4FC3F7;
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
 label {
