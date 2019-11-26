@@ -10,8 +10,8 @@
 の機能を使って、ウェブサイトとして公開されています。
 このプロジェクトに貢献することで、あなたの制作した To-do リストが公開されます。
 
-テンプレートの例がこちらになります。
-→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/template/>
+完成品の例がこのようになります
+→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/>
 
 あなたの変更がこのリポジトリにマージされると、
 `https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/学籍番号/`
