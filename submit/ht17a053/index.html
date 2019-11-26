@@ -11,15 +11,21 @@
   <title>To-do List</title>
 </head>
 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+</style> 
+    
+
 <body>
   <h1>To-do List</h1>
 
   <div class="todo">
     <div class="todo-input">
+      
       <input type="text" class="input-text" onkeydown="addTodo()" id="todo_value" placeholder="Type a to-do here!"
         autofocus />
       <input type="button" value="Add to-do" onclick="addTodo(true)" />
-      <input type="button" value="Delete selected items" onclick="" />
+      <input type="button" value="Delete selected items" onclick="deleteSelected()" />
     </div>
 
     <ul id="todo_ul" class="todo-list"></ul>
