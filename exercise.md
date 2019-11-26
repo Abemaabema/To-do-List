@@ -24,12 +24,16 @@ template/ ディレクトリにある To-do List にはいくつかの問題点�
 
 - Visual Studio Code に `Live Server` という拡張機能を導入
   - Visual Studio Code の左側から拡張機能のタブを開いて検索
-  - Ctrl + Shift + X でも拡張機能のタブを表示できる
+
+![install Live Server](https://i.imgur.com/gRO7bug.png)
+
 - html ファイルが入っているディレクトリを Visual Studio Code で開く
   - ドラッグ & ドロップで開けます
 - 右下の `Go Live` をクリックしてサーバーを起動
   - 起動時にポート番号が競合してなければ <http://localhost:5500/> でアクセス可能
   - 停止するには右下の `Port : xxxx` と書いてるところを選択
+
+![server run](https://i.imgur.com/4sEmRsk.png)
 
 ## 修正内容
 
@@ -40,16 +44,22 @@ template/ ディレクトリにある To-do List にはいくつかの問題点�
 現時点では削除されないことが確認できると思います。
 これは、 deleteSelected() が呼び出されていないので、index.html にあるボタンから呼び出す処理を追加してコミットしましょう。
 
-- 処理を追加した後はこのようになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/delete-selected/>
+- 処理を追加した後は以下のようになります。
+
+![delete-selected](https://i.imgur.com/rYK0iAC.gif)
 
 ### 大見出しを中央揃えに
 
 大見出し (h1) が左側に寄っているので、 style.css で中央揃えに設定してコミットしましょう。
 
-- 大見出しを中央揃えにした画面がこちらになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/center/>
+- 大見出しを中央揃えにしたら以下のような画面になります。
+
+![centering](https://i.imgur.com/prNsBov.png)
 
 ### body に対して Google Fonts を導入
 
 Google Fonts から、好きな日本語フォントを導入してコミットしましょう。
 
-- Google Fonts を導入した画面がこちらになります。（完成）→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/>
+- Google Fonts を導入したら以下のような画面になります。（完成）
+
+![Google Fonts](https://i.imgur.com/FiBKY5t.png)
