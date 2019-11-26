@@ -50,15 +50,29 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 
 ## template からコピーしてきたファイルに加える変更
 
+一つ修正する度にコミットしましょう。
+
 ### HTML: inedx.html
+
+コピー直後の状態にアクセスし、テキストボックス適当な値を入力し [Add to-do] を押してデータを追加してみましょう。
+追加されたら、項目の左側にチェックを入れて [Delete selected items] を押してみましょう。
+現時点では削除されないことが確認できると思います。
+これは、 deleteSelected() が呼び出されていないので、呼び出すように処理を追加してコミットしましょう。
 
 - 22 行目: [Delete selected items] ボタン
   - 選択された項目を削除する関数 `deleteSelected()` を呼び出すように
 
+処理を追加した後はこのようになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/delete-selected/>
+
 ### CSS: style.css(ress.css は触らない)
 
+コピーした直後では、大見出しが左側に寄っているので中央揃えにして。
+また、フォントの見たい目を変更してみましょう。
+
 - 大見出し (h1) を中央揃えに
+  - 大見出しを中央揃えにした画面がこちらになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/center/>
 - body に対して Google Fonts を導入
+  - Google Fonts を導入した画面がこちらになります。（完成）→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/>
 
 ### JavaScript: main.js
 
