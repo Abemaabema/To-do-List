@@ -66,8 +66,8 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 
 ### CSS: style.css(ress.css は触らない)
 
-コピーした直後では、大見出しが左側に寄っているので中央揃えにして。
-また、フォントの見たい目を変更してみましょう。
+コピーした直後では、大見出しが左側に寄っているので中央揃えに設定してコミットしましょう。
+また、フォントの見た目を変更してコミットしてみましょう。
 
 - 大見出し (h1) を中央揃えに
   - 大見出しを中央揃えにした画面がこちらになります。→ <https://oecu-class-advanced-cpp2.github.io/To-do-List/submit/ht99a999/examples/center/>
