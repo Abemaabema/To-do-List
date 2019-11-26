@@ -1,4 +1,6 @@
-body { font-family: "游ゴシック", "YuGothic", "メイリオ", meiryo, sans-serif; }
+body { 
+	font-family: 'Oswald', sans-serif; 
+}
 
 h1 {
 	background-color: #4FC3F7;
