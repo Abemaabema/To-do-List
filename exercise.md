@@ -1,6 +1,8 @@
 # 演習課題
 
-template/ ディレクトリにある To-do List にはいくつかの問題点があります。それを修正する演習です。
+template/ ディレクトリにある To-do List にはいくつかの問題点があります。それを修正する演習になります。
+
+![template](https://i.imgur.com/neh9qyk.png)
 
 ## 作業方法
 
