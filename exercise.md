@@ -2,8 +2,6 @@
 
 template/ ディレクトリにある To-do List にはいくつかの問題点があります。それを修正する演習になります。
 
-![template](https://i.imgur.com/neh9qyk.png)
-
 ## 作業方法
 
 - 学籍番号のブランチを作成して切り替える
@@ -53,6 +51,8 @@ template/ ディレクトリにある To-do List にはいくつかの問題点�
 
 ### [Delete selected items] ボタンから、関数 deleteSelected() を呼び出すようにする
 
+![delete-selected](https://i.imgur.com/oyA5IkT.gif)
+
 コピー直後のサイトにアクセスし、テキストボックスに適当な値を入力し [Add to-do] を押してデータを追加します。
 追加されたら、項目の左側にチェックを入れて [Delete selected items] を押してみましょう。
 現時点では削除されないことが確認できます。
@@ -60,24 +60,16 @@ template/ ディレクトリにある To-do List にはいくつかの問題点�
 index.html にあるボタンから呼び出す処理を追加しましましょう。
 修正が終わったら、コミットしましょう。
 
-- 処理を追加した後は以下のようになります。
-
-![delete-selected](https://i.imgur.com/rYK0iAC.gif)
-
 ### 大見出しを中央揃えにする
+
+![notcentering](https://i.imgur.com/neh9qyk.png)
 
 大見出し (h1) が左側に寄っているので、 style.css で中央揃えにしましょう。
 修正が終わったら、コミットしましょう。
 
-- 大見出しを中央揃えにしたら以下のような画面になります。
+### body に対して Google Fonts を導入する
 
-![centering](https://i.imgur.com/prNsBov.png)
-
-### body に対して Google Fonts を導入する。
+![not Google Fonts](https://i.imgur.com/prNsBov.png)
 
 デフォルトのフォントだとありきたりなので、変化を加えるために、Google Fonts から好きな日本語フォントを導入しましょう。
 導入が終わったら、コミットしましょう。
-
-- Google Fonts を導入したら以下のような画面になります。（完成）
-
-![Google Fonts](https://i.imgur.com/FiBKY5t.png)
