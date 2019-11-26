@@ -81,5 +81,5 @@ input[type=button]:active {
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 
 body {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif; 
 }
