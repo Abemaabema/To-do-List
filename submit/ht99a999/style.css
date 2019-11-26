@@ -1,8 +1,12 @@
+body {
+    font-family: 'Tangerine', serif;
+}
 h1 {
     background-color: #4FC3F7;
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
 label {
