@@ -3,6 +3,7 @@ h1 {
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
 label {
@@ -48,6 +49,7 @@ input {
     border-radius: 5px;
     border: solid 1px #4FC3F7;
     padding: 0 10px;
+    font-family: "Google Fonts";
 }
 
 input[type=button] {
