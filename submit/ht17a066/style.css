@@ -1,19 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:500&display=swap');
-
-body {
-    font-family: 'M PLUS 1p', sans-serif;
-}
-
 h1 {
     background-color: #4FC3F7;
     color: #fff;
     height: 100px;
     line-height: 100px;
-<<<<<<< HEAD:submit/ht99a999/style.css
-    text-align: center;
-=======
     text-align:  center;
->>>>>>> c38b18390b1ac052dce36341a462260a97c6c2fc:submit/ht17a066/style.css
 }
 
 label {
